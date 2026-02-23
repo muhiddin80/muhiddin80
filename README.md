@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hello,%20I'm%20Muhiddin%20👋&fontSize=50" />
-</p>
+<div align="center">
 
+# 👋 Hello, I'm Muhiddin Rahimov
+
+### ⚡ Full-Stack Developer
+
+</div>
 <p align="center">
   <strong>Passionate Full-Stack Developer | Open Source Enthusiast | Problem Solver</strong>
 </p>
@@ -67,6 +70,9 @@ I'm a software developer with a strong passion for clean code, problem-solving, 
   <a href="mailto:rahimovmuhifdin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://t.me/r_muhiddin">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
