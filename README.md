@@ -73,12 +73,6 @@ The official corporate and industrial portal for the state-owned chemical holdin
   - Industrial analytics dashboard
 - **Link:** [https://uzkimyo.uz](https://uzkimyo.uz)
 
-## 📊 GitHub Statistics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhiddin80&show_icons=true&theme=radical)](https://github.com/muhiddin80)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiddin80&layout=compact&theme=radical)](https://github.com/muhiddin80)
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with fellow developers, collaborating on exciting projects, and sharing knowledge.
